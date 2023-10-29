@@ -1,0 +1,35 @@
+body {
+  color: #dadada;
+  background-color:#121212;
+  font-family: Arial, sans-serif;
+}
+
+.share {
+  max-width: 800px;
+  font-family:monospace;
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+  border: 2px solid #333;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.share:hover {
+  background-color: #508050;
+}
+
+.solved {
+  fill: green;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-family:monospace;
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+}
