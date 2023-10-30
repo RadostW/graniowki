@@ -6,6 +6,17 @@ window.onload=function(){
 
 
     document.getElementById('board_container').addEventListener('keydown', (event) => {
+        if(
+            getSelection().anchorNode.nodeName != "text"
+            && getSelection().anchorNode.nodeName != "#text"
+        )
+        {
+            console.log(getSelection().anchorNode.nodeName);
+            event.preventDefault(); // prevents replacing entire thing with text
+            getSelection().anchorNode.blur();
+        }
+
+
         if (event.key === 'Enter') {
             console.log('Enter');
             event.preventDefault(); // disallow enters - they break the svg
@@ -13,22 +24,15 @@ window.onload=function(){
         if(event.key === 'Delete' || event.key === 'Backspace')
         {
             console.log('Delete');
-
-            if(getSelection().anchorNode.nodeType != Node.TEXT_NODE)
-            {
-                event.preventDefault();                
-            }
-
             if(getSelection().type == "Range")
             {
                 event.preventDefault();
                 if(getSelection().anchorNode.tagName == "text")
                 {
-                    getSelection().anchorNode.textContent = "???";
+                    getSelection().anchorNode.textContent = "???";                    
                     getSelection().anchorNode.blur();
                 }                
-            }
-            
+            }            
         }
     });
 }
