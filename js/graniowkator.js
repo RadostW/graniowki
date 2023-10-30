@@ -6,7 +6,6 @@ window.onload=function(){
 
 
     document.getElementById('board_container').addEventListener('keydown', (event) => {
-
         if (event.key === 'Enter') {
             console.log('Enter');
             event.preventDefault(); // disallow enters - they break the svg
@@ -79,6 +78,7 @@ function check_answers()
 {
     board = document.getElementById('board_container')
     texts = board.querySelectorAll('text');
+    
     texts.forEach(text => {
         target = text.data;
         current = text.textContent;
