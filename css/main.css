@@ -1,12 +1,12 @@
 body {
   color: #dadada;
-  background-color:#121212;
+  background-color: #121212;
   font-family: Arial, sans-serif;
 }
 
 .share {
   max-width: 800px;
-  font-family:monospace;
+  font-family: monospace;
   font-size: 1rem;
   color: #333;
   text-align: center;
@@ -28,8 +28,96 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  font-family:monospace;
+  font-family: monospace;
   font-size: 1rem;
   color: #333;
   text-align: center;
+}
+
+.menu_button {
+  font-family: 'Atkinson Hyperlegible';
+  box-sizing: border-box;
+  display: inline-block;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid transparent;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: .3rem;
+  border-color: #fff !important;
+  width: 100% !important;
+  font-weight: 700 !important;
+  background-color: #fff !important;
+  color: #333;
+  text-shadow: none;
+}
+
+.menu_button:hover {
+  background-color: #508050 !important;
+  color: #333 !important;  
+  border: 1px solid #333 !important;
+}
+
+.menu_container p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: 'Atkinson Hyperlegible';
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  text-align: center !important;
+  color: #fff !important;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.menu_container {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: 'Atkinson Hyperlegible';
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  text-align: center !important;
+  color: #fff !important;
+  box-sizing: border-box;
+  padding-right: 3rem !important;
+  padding-left: 3rem !important;
+}
+
+.menu_body {
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: 'Atkinson Hyperlegible';
+  display: flex !important;
+  height: 100% !important;
+  text-align: center !important;
+  color: #fff !important;
+  background-color: #121212 !important;
+}
+
+.menu_frame {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: 'Atkinson Hyperlegible';
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  text-align: center !important;
+  color: #fff !important;
+  box-sizing: border-box;
+  display: flex !important;
+  width: 100% !important;
+  height: 100% !important;
+  flex-direction: column !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  padding: 1rem !important;
+  max-width: 70em;
 }
