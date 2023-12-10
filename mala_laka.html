@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+        
+    <script src="./js/graniowkator.js" type="text/javascript"></script>
+    
+
+    <link href="./css/main.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+    </style> 
+</head>
+<body>
+    <center>
+    <div>    
+    <h1>Dolina Koscieliska</h1>
+    <div id="ready" class="share happyshaking">Gotowy do gry!</div>
+    </div>
+    <div id="board_container" contenteditable="false">
+    <object        
+        type="image/svg+xml" 
+        data="./mala_laka_biala.svg"
+        onload="this.parentNode.replaceChild(this.contentDocument.documentElement,this);">
+    </object>
+    </div>
+        
+    <div class="footer">Copyright (C) Radost Waszkiewicz 2022</div>
+    </center>
+</body>
+</html>

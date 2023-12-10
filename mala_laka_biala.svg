@@ -1,0 +1,2712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1218"
+   height="1753"
+   viewBox="0 0 1218 1753"
+   sodipodi:docname="mala_laka_biala.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter831"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix827" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix829" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80253"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80249" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80251" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80259"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80255" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80257" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80265"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80261" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80263" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80271"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80267" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80269" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80277"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80273" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80275" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80283"
+       x="-0.016906318"
+       y="-0.0091770146"
+       width="1.0338126"
+       height="1.018354">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80279" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80281" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80289"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80285" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80287" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80295"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80291" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80293" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80301"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80297" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80299" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80307"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80303" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80305" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80313"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80309" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80311" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80319"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80315" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80317" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80325"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80321" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80323" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80331"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80327" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80329" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80337"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80333" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80335" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80343"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80339" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80341" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80349"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80345" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80347" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80355"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80351" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80353" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80361"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80357" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80359" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80367"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80363" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80365" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80373"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80369" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80371" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80379"
+       x="-0.2334055"
+       y="-0.027195293"
+       width="1.466811"
+       height="1.0543906">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80375" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80377" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80385"
+       x="-0.17644814"
+       y="-0.031961407"
+       width="1.3528963"
+       height="1.0639228">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80381" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80383" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80391"
+       x="-0.12997859"
+       y="-0.032990784"
+       width="1.2599572"
+       height="1.0659816">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80387" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80389" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80397"
+       x="-0.11488412"
+       y="-0.040335168"
+       width="1.2297682"
+       height="1.0806703">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80393" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80395" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80403"
+       x="-0.087533197"
+       y="-0.05111182"
+       width="1.1750664"
+       height="1.1022236">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80399" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80401" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80409"
+       x="-0.08087926"
+       y="-0.055865725"
+       width="1.1617585"
+       height="1.1117314">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80405" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80407" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80415"
+       x="-0.095257981"
+       y="-0.064610163"
+       width="1.190516"
+       height="1.1292203">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80411" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80413" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80421"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80417" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80419" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80427"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80423" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80425" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80433"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80429" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80431" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80439"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80435" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80437" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80445"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80441" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80443" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80451"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80447" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80449" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80457"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80453" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80455" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80463"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80459" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80461" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80469"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80465" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80467" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80475"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80471" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80473" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80481"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80477" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80479" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80487"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80483" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80485" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80493"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80489" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80491" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80499"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80495" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80497" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80505"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80501" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80503" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80511"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80507" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80509" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80517"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80513" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80515" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80523"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80519" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80521" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80529"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80525" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80527" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80535"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80531" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80533" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80541"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80537" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80539" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80547"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80543" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80545" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80553"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80549" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80551" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80559"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80555" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80557" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80565"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80561" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80563" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80571"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80567" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80569" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80577"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80573" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80575" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80583"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80579" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80581" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80589"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80585" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80587" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80595"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80591" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80593" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80601"
+       x="-0.15037552"
+       y="-0.14450829"
+       width="1.3008811"
+       height="1.2886778">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80597" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80599" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80607"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80603" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80605" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80613"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80609" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80611" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80619"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80615" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80617" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80625"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80621" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80623" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80631"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80627" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80629" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80637"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80633" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80635" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80643"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80639" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80641" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80649"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80645" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80647" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80655"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80651" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80653" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80661"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80657" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80659" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80667"
+       x="-0.00058991013"
+       y="-0.14362309"
+       width="1.0011798"
+       height="1.1795667">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80663" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80665" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80673"
+       x="-0.0035974152"
+       y="-0.0097828919"
+       width="1.0044861"
+       height="1.0218683">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80669" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80671" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80679"
+       x="-0.0086252295"
+       y="-0.020155454"
+       width="1.0172505"
+       height="1.0403109">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80675" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80677" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80685"
+       x="-0.0021370576"
+       y="-0.0062441667"
+       width="1.0053037"
+       height="1.0114391">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80681" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80683" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80691"
+       x="-0.0028715015"
+       y="-0.0063241299"
+       width="1.00397"
+       height="1.0145446">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80687" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80689" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80697"
+       x="-0.0060640294"
+       y="-0.054700002"
+       width="1.0184243"
+       height="1.1156031">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80693" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80695" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80703"
+       x="-0.001821648"
+       y="-0.11403003"
+       width="1.0036433"
+       height="1.2280601">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80699" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80701" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80709"
+       x="-0.0010731159"
+       y="-0.34750381"
+       width="1.0021462"
+       height="1.6950076">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80705" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80707" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80715"
+       x="-0.014201591"
+       y="-0.011839014"
+       width="1.0160199"
+       height="1.013671">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80711" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80713" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80721"
+       x="-0.030368914"
+       y="-0.34433021"
+       width="1.0607378"
+       height="1.6886604">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80717" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80719" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80727"
+       x="-0.032559472"
+       y="-0.049997431"
+       width="1.0651189"
+       height="1.0999949">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80723" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80725" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80733"
+       x="-0.00030659462"
+       y="-0.1209415"
+       width="1.0006132"
+       height="1.241883">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80729" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80731" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80739"
+       x="-0.060289534"
+       y="-0.011201419"
+       width="1.1205803"
+       height="1.0122739">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80735" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80737" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80745"
+       x="-0.16126539"
+       y="-0.01198526"
+       width="1.2496636"
+       height="1.0684048">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80741" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80743" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80751"
+       x="-0.022604926"
+       y="-0.10843843"
+       width="1.0452099"
+       height="1.2168769">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80747" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80749" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80757"
+       x="-0.00071115588"
+       y="-0.012509618"
+       width="1.0039454"
+       height="1.0253077">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80753" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80755" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80763"
+       x="-0.36945597"
+       y="-0.11927194"
+       width="1.7389119"
+       height="1.2385439">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80759" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80761" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80769"
+       x="-0.013873369"
+       y="-0.062420591"
+       width="1.0232854"
+       height="1.1289923">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80765" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80767" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80775"
+       x="-0.04153932"
+       y="-0.29489924"
+       width="1.0830786"
+       height="1.5897985">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80771" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80773" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80781"
+       x="-0.12354725"
+       y="-0.016348183"
+       width="1.2339327"
+       height="1.018624">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80777" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80779" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80787"
+       x="-0.0023082416"
+       y="-0.055847478"
+       width="1.0162764"
+       height="1.1221547">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80783" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80785" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80793"
+       x="-0.10641706"
+       y="-0.0030099207"
+       width="1.1929285"
+       height="1.0041827">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80789" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80791" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter80799"
+       x="-0.0038274663"
+       y="-0.05655236"
+       width="1.0041177"
+       height="1.1097713">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix80795" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix80797" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.31575202"
+     inkscape:cx="259.69747"
+     inkscape:cy="672.99649"
+     inkscape:window-width="1368"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="przerys">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80799)"
+       d="m 769.63803,104.52965 c -98.39646,2.53121 -167.6231,-10.881354 -442.99962,88.3844"
+       id="path920"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80793)"
+       d="M 326.63841,192.91405 C 287.188,247.98162 269.79199,300.6346 270.40481,374.95968 m -0.14642,5.89123 c 1.0575,128.2565 43.376,304.91712 39.77324,621.20869 m 0.31469,4.8968 c -0.13808,12.122 0.28163,22.046 8.7e-4,34.5757 l 0.32496,17.7634 m -0.10241,5.5858 0.68262,31.9154 m 0.51832,6.387 0.33858,52.2475 m 1.87946,5.3511 2.36638,20.9609 c -0.38484,8.5675 0.12935,12.335 -0.33195,20.8757 m 0.20129,6.9505 c -2.69922,49.9749 -8.24617,97.1858 -19.21332,144.2571"
+       id="path1083"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80787)"
+       d="m 297.01112,1353.8265 c 37.48273,3.3644 87.7036,-6.5769 193.65231,-74.7288"
+       id="path1469"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80781)"
+       d="m 297.01112,1353.8265 c -46.28995,90.9447 -50.14829,132.2382 -47.98156,166.4815 v 0"
+       id="path1561"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80775)"
+       d="m 249.02956,1520.308 -76.13072,28.5728"
+       id="path1653" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80769)"
+       d="m 249.02956,1520.308 c 44.36672,22.3874 86.62106,44.0581 132.63074,65.3462 m 4.06152,1.9173 c 49.49314,22.8999 98.97872,43.2999 155.55523,61.4602"
+       id="path1707"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80763)"
+       d="m 541.27705,1649.0317 21.18008,37.2769"
+       id="path1799" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80757)"
+       d="m 541.27705,1649.0317 c 0,0 25.62131,-1.2192 79.44868,-82.0159 53.82737,-80.7967 56.9617,-128.1601 82.79831,-172.8642 10.85439,-18.7809 23.39302,-37.8869 39.76979,-58.3466 m 3.8153,-4.1073 c 22.60471,-28.2403 46.90185,-53.3205 71.71296,-73.0715 42.78638,-34.0603 71.62788,-66.406 71.62788,-66.406 l 51.84975,-11.4795"
+       id="path1853"
+       sodipodi:nodetypes="czsccscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80751)"
+       d="m 890.44997,1192.2202 -91.8673,-41.9441"
+       id="path2154" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80745)"
+       d="m 798.58267,1150.2761 c -9.65131,-6.181 -18.71285,-9.7756 -30.50466,-74.629"
+       id="path2208"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80739)"
+       d="m 767.38086,1070.1174 c -3.46753,-42.5605 -10.44736,-88.58015 -36.53678,-153.42071 -50.36943,-99.29698 -70.24117,-183.551 -3.64357,-225.1541"
+       id="path2376"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80733)"
+       d="m 798.58267,1150.2761 -82.00688,4.129"
+       id="path2601" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80727)"
+       d="M 731.04614,688.46576 827.48557,610.6407"
+       id="path2636"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80721)"
+       d="m 827.48557,610.6407 46.87206,13.92006"
+       id="path2671" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80715)"
+       d="M 827.48557,610.6407 C 785.326,339.19976 927.42494,222.9669 1170.4522,191.74987"
+       id="path2706"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80709)"
+       d="m 310.34719,1041.5321 155.11315,-8.6197"
+       id="path2798" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80703)"
+       d="m 451.48824,1116.7388 -137.67231,17.4008"
+       id="path2833" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter80697)"
+       d="m 313.00222,1253.1293 c 84.76267,-20.9835 120.46316,-42.3784 158.50983,-63.7536"
+       id="path2868"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80691)"
+       d="m 383.82563,1419.9132 c 33.70386,30.2929 73.6465,47.4937 116.39728,58.8017"
+       id="path2998"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80685)"
+       d="m 512.46331,1497.9414 c 43.29492,21.9683 77.71948,45.9692 105.86813,71.4081"
+       id="path3090"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80679)"
+       d="m 672.96448,1373.5644 31.73468,20.7598"
+       id="path3182" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80673)"
+       d="m 686.79755,1058.7017 c 36.44008,27.2766 62.1947,37.759 83.2887,40.9165"
+       id="path3217"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g39353-8"
+       style="display:inline;filter:url(#filter80667)"
+       transform="translate(-308.14137,895.5426)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-0"
+       style="display:inline;filter:url(#filter80661)"
+       transform="translate(-324.46644,860.8584)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-2"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-5"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-4"
+       style="display:inline;filter:url(#filter80655)"
+       transform="translate(-301.33286,860.4663)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-5"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-9"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-46"
+       style="display:inline;filter:url(#filter80649)"
+       transform="translate(-276.23882,841.25368)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-92"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-24"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-7"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-7"
+       style="display:inline;filter:url(#filter80643)"
+       transform="translate(-324.85853,826.74618)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-4"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-8"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-1"
+       style="display:inline;filter:url(#filter80637)"
+       transform="translate(-262.12342,808.70984)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-8"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-93"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-6"
+       style="display:inline;filter:url(#filter80631)"
+       transform="translate(-180.17568,678.92658)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-0"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-2"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-10"
+       style="display:inline;filter:url(#filter80625)"
+       transform="translate(38.843548,776.26196)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-51"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-1"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-0"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-8"
+       style="display:inline;filter:url(#filter80619)"
+       transform="translate(-131.16388,989.07328)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-50"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-6"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-4"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-62"
+       style="display:inline;filter:url(#filter80613)"
+       transform="translate(22.53714,512.28644)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-58"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-62"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-84"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g39353-8-72"
+       style="display:inline;filter:url(#filter80607)"
+       transform="translate(46.06281,504.44455)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.5787,594.08517 31.24198,1.15236"
+         id="path37056-10-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 635.53717,594.35972 c 0,0 1.50742,-13.91888 10.39123,-12.97777 8.442,0.89431 7.501,13.41167 7.501,13.41167"
+         id="path37186-22-06"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 642.98596,594.43657 c -0.39003,-3.2424 -0.49729,-5.11254 2.19779,-4.96297 2.3765,0.13189 1.61841,1.99219 0.77697,5.08554"
+         id="path37619-9-29"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80601)"
+       d="m 524.9988,1500.7201 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80595)"
+       d="m 632.95354,1372.2264 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-7"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80589)"
+       d="m 641.89082,1358.2111 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-4"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80583)"
+       d="m 650.01562,1347.852 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-3"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80577)"
+       d="m 656.51545,1338.1022 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-1"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80571)"
+       d="m 648.39066,1312.9154 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-46"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80565)"
+       d="m 540.69634,1509.6417 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-9"
+       sodipodi:nodetypes="ssss" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter80559)"
+       d="m 552.95539,1517.0381 c -1.919,-1.2148 -5.30635,0.5702 -5.3877,2.84 -0.0786,2.1942 2.90353,4.503 4.86642,3.5192 2.06022,-1.0326 2.46844,-5.1266 0.52128,-6.3592 z"
+       id="path94240-9-0"
+       sodipodi:nodetypes="ssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80553)"
+       x="168.04887"
+       y="191.50208"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2"
+         x="168.04887"
+         y="191.50208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Hruby Regiel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80547)"
+       x="77.647446"
+       y="374.06326"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-1"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-3"
+         x="77.647446"
+         y="374.06326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Przysłop Miętusi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80541)"
+       x="839.91046"
+       y="596.30804"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-11"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-0"
+         x="839.91046"
+         y="596.30804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Łysanki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80535)"
+       x="739.90839"
+       y="714.2265"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-4"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-03"
+         x="739.90839"
+         y="714.2265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">w Grzybowcu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80529)"
+       x="786.16803"
+       y="1077.7203"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-9"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-1"
+         x="786.16803"
+         y="1077.7203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Bacuch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80523)"
+       x="811.21759"
+       y="1143.4946"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-6"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-9"
+         x="811.21759"
+         y="1143.4946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mały Giewont</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80517)"
+       x="888.86847"
+       y="1222.1886"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-3"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-38"
+         x="888.86847"
+         y="1222.1886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Giewont</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80511)"
+       x="752.59698"
+       y="1350.1019"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-0"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-5"
+         x="752.59698"
+         y="1350.1019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kondracka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80505)"
+       x="571.94299"
+       y="1659.2241"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-66"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-4"
+         x="571.94299"
+         y="1659.2241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kopa Kondracka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80499)"
+       x="279.33627"
+       y="1619.0538"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46"
+         x="279.33627"
+         y="1619.0538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Małołącka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80493)"
+       x="991.9696"
+       y="1116.1686"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9"
+       transform="rotate(27.227697)"
+       inkscape:transform-center-x="0.56529672"
+       inkscape:transform-center-y="0.43480065"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1"
+         x="991.9696"
+         y="1116.1686"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Wyżnia Świstówka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80487)"
+       x="105.91856"
+       y="1468.5634"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-9"
+       transform="rotate(-22.257742)"
+       inkscape:transform-center-x="0.1484571"
+       inkscape:transform-center-y="0.4949978"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-4"
+         x="105.91856"
+         y="1468.5634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mnich Małołącki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80481)"
+       x="932.37964"
+       y="1191.2878"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29"
+       transform="rotate(27.227697)"
+       inkscape:transform-center-x="0.56529672"
+       inkscape:transform-center-y="0.43480065"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0"
+         x="932.37964"
+         y="1191.2878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kotliny</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80475)"
+       x="-765.37537"
+       y="1289.1281"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-5"
+       transform="rotate(-50.271826)"
+       inkscape:transform-center-x="-0.4225512"
+       inkscape:transform-center-y="0.88004588"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-5"
+         x="-765.37537"
+         y="1289.1281"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Niżnia Świstówka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80469)"
+       x="92.563736"
+       y="1498.2334"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-2"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-6"
+         x="92.563736"
+         y="1498.2334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Małołączniak</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80463)"
+       x="501.03748"
+       y="987.25092"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-7"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-56"
+         x="501.03748"
+         y="987.25092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Wyżnie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80457)"
+       x="462.0311"
+       y="934.91284"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-98"
+       transform="rotate(-35.321005)"
+       inkscape:transform-center-x="-1.6273362"
+       inkscape:transform-center-y="1.4504255"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-7"
+         x="462.0311"
+         y="934.91284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Za Bramką</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80451)"
+       x="579.5434"
+       y="556.21484"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-28"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-2"
+         x="579.5434"
+         y="556.21484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mała Polanka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80445)"
+       x="529.44861"
+       y="507.31488"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-99"
+       transform="rotate(-0.00194241)"
+       inkscape:transform-center-x="-0.43832474"
+       inkscape:transform-center-y="2.1946536"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-60"
+         x="529.44861"
+         y="507.31488"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Rówieńki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80439)"
+       x="565.37109"
+       y="-125.76631"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-27"
+       transform="rotate(88.934915)"
+       inkscape:transform-center-x="1.5402324"
+       inkscape:transform-center-y="0.44668834"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-61"
+         x="565.37109"
+         y="-125.76631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Miętusia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80433)"
+       x="625.49493"
+       y="-249.08357"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-27-3"
+       transform="rotate(88.934915)"
+       inkscape:transform-center-x="1.5402324"
+       inkscape:transform-center-y="0.44668834"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-61-2"
+         x="625.49493"
+         y="-249.08357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Skoruśniak</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80427)"
+       x="623.27454"
+       y="-537.89697"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-27-3-9"
+       transform="rotate(88.934915)"
+       inkscape:transform-center-x="1.5402324"
+       inkscape:transform-center-y="0.44668834"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-61-2-9"
+         x="623.27454"
+         y="-537.89697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Wielka Polana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80421)"
+       x="-1312.7416"
+       y="676.36517"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-27-1"
+       transform="rotate(-71.962239)"
+       inkscape:transform-center-x="-0.77153727"
+       inkscape:transform-center-y="0.058277635"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-61-5"
+         x="-1312.7416"
+         y="676.36517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Czerwony Grzbiet</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80415)"
+       d="m 391.88424,1426.786 4.05171,-4.9197"
+       id="path54173" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80409)"
+       d="m 404.21542,1436.0228 4.7544,-5.7206"
+       id="path54208" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80403)"
+       d="m 420.104,1446.4769 4.5387,-5.9396"
+       id="path54243" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80397)"
+       d="m 437.15447,1455.5631 3.74427,-6.3191"
+       id="path54278" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80391)"
+       d="m 454.98722,1463.8154 3.43543,-6.819"
+       id="path54280" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80385)"
+       d="m 470.12933,1469.4367 2.60737,-6.1263"
+       id="path54315" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80379)"
+       d="m 489.16774,1475.5363 2.02734,-5.9393"
+       id="path54350" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80373)"
+       x="17.248457"
+       y="1699.6311"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-0-1"
+       transform="rotate(-29.838086)"
+       inkscape:transform-center-x="-1.4716218"
+       inkscape:transform-center-y="3.2670336"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-5-4"
+         x="17.248457"
+         y="1699.6311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kondratowa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80367)"
+       x="1173.124"
+       y="1133.4784"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-2"
+       transform="rotate(27.227697)"
+       inkscape:transform-center-x="0.56529672"
+       inkscape:transform-center-y="0.43480065"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-2"
+         x="1173.124"
+         y="1133.4784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Koprowy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80361)"
+       x="1197.9014"
+       y="1017.8766"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-2-28"
+       transform="rotate(30.470771)"
+       inkscape:transform-center-x="0.5700764"
+       inkscape:transform-center-y="0.39241986"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-2-3"
+         x="1197.9014"
+         y="1017.8766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Koprowe Mniszki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80355)"
+       x="1133.9436"
+       y="1038.4745"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-2-2"
+       transform="rotate(27.227697)"
+       inkscape:transform-center-x="0.56529672"
+       inkscape:transform-center-y="0.43480065"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-2-0"
+         x="1133.9436"
+         y="1038.4745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mnichowy Upłaz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80349)"
+       x="888.87933"
+       y="1090.188"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8"
+       transform="rotate(27.227697)"
+       inkscape:transform-center-x="0.56529672"
+       inkscape:transform-center-y="0.43480065"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0"
+         x="888.87933"
+         y="1090.188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Baranie Schody</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80343)"
+       x="482.93671"
+       y="1285.3893"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0"
+         x="482.93671"
+         y="1285.3893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Wielka Turnia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80337)"
+       x="469.19327"
+       y="1194.1"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1"
+         x="469.19327"
+         y="1194.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Pośrednia Małołącka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80331)"
+       x="346.64041"
+       y="1087.2013"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6"
+         x="346.64041"
+         y="1087.2013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zagon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80325)"
+       x="351.35843"
+       y="1030.7507"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-4"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-4"
+         x="351.35843"
+         y="1030.7507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kamienne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80319)"
+       x="226.20502"
+       y="1010.7029"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-9"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-9"
+         x="226.20502"
+         y="1010.7029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Siwarowa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80313)"
+       x="227.1767"
+       y="1068.6844"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6"
+         x="227.1767"
+         y="1068.6844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zagonna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80307)"
+       x="178.11861"
+       y="1041.035"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-2"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-2"
+         x="178.11861"
+         y="1041.035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zagonna Turnia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80301)"
+       x="178.09319"
+       y="1107.2217"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-0"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-5"
+         x="178.09319"
+         y="1107.2217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zagonna Wrótka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80295)"
+       x="168.93817"
+       y="1164.9862"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-02"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-94"
+         x="168.93817"
+         y="1164.9862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Małołąckie Siodło</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80289)"
+       x="142.61227"
+       y="1213.616"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-35"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-1"
+         x="142.61227"
+         y="1213.616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kobylarzowe Siodełko</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter80283)"
+       d="m 655.92896,1341.7578 -23.81025,32.3175"
+       id="path76905" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80277)"
+       x="185.85919"
+       y="1085.7798"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-6"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-4"
+         x="185.85919"
+         y="1085.7798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zagonny Ząb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80271)"
+       x="113.33607"
+       y="1141.5752"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-1"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-28"
+         x="113.33607"
+         y="1141.5752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Skrajna Małołącka Turnia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80265)"
+       x="152.60432"
+       y="1191.4263"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-8"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-9"
+         x="152.60432"
+         y="1191.4263"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Kobylarzowa Kopka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80259)"
+       x="1051.1191"
+       y="707.21661"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-28"
+       transform="rotate(22.826925)"
+       inkscape:transform-center-x="-0.35244088"
+       inkscape:transform-center-y="-1.4178622"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-8"
+         x="1051.1191"
+         y="707.21661"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Blejarnia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-linecap:round;filter:url(#filter80253)"
+       x="658.67133"
+       y="1175.1238"
+       id="text14075-8-6-9-3-8-2-1-9-5-9-8-8-0-8-0-6-5-3-6-04-7-1-00-9-29-8-4-9-9-3-86"
+       transform="rotate(-0.52764185)"
+       inkscape:transform-center-x="-0.19457982"
+       inkscape:transform-center-y="-0.032122109"><tspan
+         sodipodi:role="line"
+         id="tspan33832-8-4-93-62-6-2-46-1-0-0-0-1-6-6-83"
+         x="658.67133"
+         y="1175.1238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Siodłowa Turnia</tspan></text>
+  </g>
+</svg>
